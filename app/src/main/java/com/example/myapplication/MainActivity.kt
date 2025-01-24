@@ -17,6 +17,6 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
-        //added feature to add a contact
+        //added feature to add a contacts
     }
 }
